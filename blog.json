@@ -1,9 +1,9 @@
 [
  {
-  "url_title": "First Blog Post",
-  "title": "First Blog Post",
-  "sub_title": "First Blog Post",
-  "top_image": "image.png",
+  "url_title": "Uninstall-Programs-with-Powershell",
+  "title": "Uninstall Programs with Powershell",
+  "sub_title": "Invoke-Uninstall",
+  "top_image": "top_image.png",
   "visible": true
  }
 ]

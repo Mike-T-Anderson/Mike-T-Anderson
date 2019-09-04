@@ -3,15 +3,15 @@
   "username": "Mike-T-Anderson",
   "name": null,
   "userimg": "https://avatars1.githubusercontent.com/u/50447482?v=4",
-  "sort": "star",
-  "order": "desc",
+  "sort": "created",
+  "order": "asc",
   "includeFork": false,
   "theme": "light.css",
   "types": [
    "owner"
   ],
   "twitter": null,
-  "linkedin": null,
+  "linkedin": "https://www.linkedin.com/in/Mike-T-Anderson",
   "medium": null,
   "dribbble": null
  }
